@@ -8,13 +8,6 @@ There are no automated tests in this project, so you should fork the bootstrap-l
 
 directly and set up a codespace as usual.
 
-Then:
-
-- `bin/dev`
-- Look around the live app preview and the codebase. 
-- There are some instructions on the homepage of the app.
-- You can View Source on the targets when you get stuck.
-
 ## Getting started
 
 When you visit your live app preview after running `bin/dev`, you will be greeted by a table of contents. You can click the first link to get started:
@@ -28,6 +21,8 @@ When you are done with the styling, click the button on the bottom of the page t
 ![](/assets/primary-key-instructions.png)
 
 Proceed like so through all of the levels, and have fun!
+
+(P.S. You can View Source on the targets when you get stuck!)
 
 ## Handy links
 
