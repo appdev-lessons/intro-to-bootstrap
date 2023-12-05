@@ -1,5 +1,10 @@
 # Intro to Bootstrap
 
+<div class="bg-blue-100 py-1 px-5" markdown="1">
+
+[Here is a video for this lesson](https://share.descript.com/view/MmodIxr2YZq). When you are done with the Bootstrap Levels project, you should have a look a the [Design Resources lesson](https://learn.firstdraft.com/lessons/143-design-resources), and if you want more practice with Bootstrap, then visit the [Bootstrapping Bulletin Board lesson](https://learn.firstdraft.com/lessons/138-bootstrap-bulletin-board-1).
+</div>
+
 ## Setup
 
 There are no automated tests in this project, so you should fork the bootstrap-levels repository:
